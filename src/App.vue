@@ -26,7 +26,8 @@ function addQ() {
 
 <style scoped>
 .container {
-  @apply max-w-96 m-auto bg-white h-full flex flex-col;
+  @apply m-auto bg-white h-full flex flex-col;
+  max-width: 640px;
 }
 
 #header {

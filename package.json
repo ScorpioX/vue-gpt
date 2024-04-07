@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@nutui/nutui": "^4.3.4",
+    "axios": "^1.6.8",
+    "openai": "^4.33.0",
     "pinia": "^2.1.7",
     "vant": "^4.8.8",
     "vue": "^3.4.21"
